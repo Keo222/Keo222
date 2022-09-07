@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on just about anything! My main expertise is in web development using React.js and Node.js, but I love learning anything and everything and would be excited to work with a team on any project.
 
-- 📫 How to reach me: Feel free to reach out to me on either LinkedIn or Twitter. I'm open to new job opportunities!
+- 📫 How to reach me: Feel free to reach out to me on either [LinkedIn](https://www.linkedin.com/in/kyle-olsen-dev/) or [Twitter](https://twitter.com/KyleDev222). I'm open to new job opportunities!
 
 - 😄 Pronouns: he/him
 
